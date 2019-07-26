@@ -1,0 +1,28 @@
+.bg-black {
+    background-color: wheat;
+}
+.nav {
+    color: beige;
+}
+
+#bg-img {
+    opacity: 0.8;
+    width: 100%;
+}
+
+.card {
+    display: inline;
+    align-content: center;
+    margin: 40px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+
+.card-body{
+    display: inline;
+}
